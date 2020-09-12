@@ -1,0 +1,40 @@
+{
+  "My Github": "https://github.com/knightworksicc",
+  "Feel Free to Contact Me": true,
+  "hardware": [
+    {
+      "name": "dell precision",
+      "link": null,
+      "why": null
+    },
+    null
+  ],
+  "OS": [
+    "ubuntu 20"
+  ],
+  "Editors": [
+    "VS Code",
+    "Vim"
+  ],
+  "Languages": [
+    "javascript",
+    "html",
+    "css/sass"
+  ],
+  "Virtual Environments": [
+    "Docker"
+  ],
+  "Version Control": [
+    "Git"
+  ],
+  "Framworks": [
+    "svelte"
+  ],
+  "Productivity": [
+    "Figma"
+  ],
+  "Command Line": [
+    "tldr"
+  ],
+  "Other": null
+}
